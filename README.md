@@ -1,4 +1,4 @@
-#Project Based Experiments
+## Project Based Experiments
 ## Objective :
  Build a Multilayer Perceptron (MLP) to classify handwritten digits in python
 ## Steps to follow:
@@ -115,12 +115,23 @@ print(x_single_prediction)
 ```
 
 ## Output:
+# Training Loss, Validation Loss Vs Iteration Plot
+
 ![image](https://github.com/vidhyasrikachapalayam/NN-Project-Based-Experiment/assets/119477817/a1613325-ec25-4028-8f51-79e57b2cb4b9)
 
 ![image](https://github.com/vidhyasrikachapalayam/NN-Project-Based-Experiment/assets/119477817/b2c6220d-4c67-4203-ba30-5401a58a5c4c)
 
 ![image](https://github.com/vidhyasrikachapalayam/NN-Project-Based-Experiment/assets/119477817/ff4df946-fb4a-488a-bf54-e0b47f2ac495)
-Classification Report
+
+# Classification Report
+
 ![image](https://github.com/vidhyasrikachapalayam/NN-Project-Based-Experiment/assets/119477817/8cb1fbb4-b961-4a1e-a311-c1f2575fde62)
-Confusion Matrix
+
+# Confusion Matrix
+
 ![Uploading 330483627-1c6cf996-e8cf-4950-b90c-3b1db6cd8f8d.png…]()
+
+# New Sample Data Prediction
+![image](https://github.com/vidhyasrikachapalayam/NN-Project-Based-Experiment/assets/119477817/b9a1f68c-3b96-4acb-9d5b-400a42b18e02)
+
+
